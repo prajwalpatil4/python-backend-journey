@@ -1,55 +1,11 @@
-# 🐍 Python Backend Journey
+Python Backend Journey
 
 Welcome to my Python Backend Development journey.
 
 This repository contains my Python learning notes, practice programs, mini projects, and backend development progress.  
-My goal is to become a **Python Backend Software Engineer** by building strong fundamentals and practical projects.
+My goal is to become a Python Backend Software Engineer by building strong fundamentals and practical projects.
 
----
-
-## 🎯 Goal
-
-- Master Python programming
-- Learn backend development concepts
-- Build real-world applications
-- Develop REST APIs using Flask/Django
-- Improve problem-solving skills with Data Structures & Algorithms
-- Create production-ready backend projects
-
----
-
-# 📚 Learning Roadmap
-
-## ✅ Python Fundamentals
-
-- Variables and Data Types
-- User Input
-- Type Conversion
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- List Comprehensions
-
-## 🔄 Currently Learning
-
-- Object-Oriented Programming (OOP)
-- File Handling
-- Exception Handling
-- Modules and Packages
-
-## 🚀 Upcoming Topics
-
-- Data Structures & Algorithms
-- SQL & Database Management
-- Flask Framework
-- Django Framework
-- REST APIs
-- Authentication & Authorization
-- Deployment
-- Backend System Design
-
-# 📂 Repository Structure
+Repository Structure
 python-backend-journey
 │
 ├── python-learning
@@ -71,51 +27,29 @@ python-backend-journey
 │
 └── dsa-python
 
----
+Technologies I Am Learning
 
-# 🛠️ Technologies I Am Learning
+Programming Language
+- Python 
 
-### Programming Language
-- Python 🐍
-
-### Backend
+Backend
 - Flask
 - Django
 - REST API
 
-### Database
+Database
 - SQL
 - PostgreSQL
 
-### Tools
+Tools
 - Git
 - GitHub
 - VS Code
 - Linux
 
----
+Projects
 
-# 📈 Progress Tracker
-
-| Topic | Status |
-|---|---|
-| Python Basics | ✅ Completed |
-| Data Types | ✅ Completed |
-| Conditional Statements | ✅ Completed |
-| Loops | ✅ Completed |
-| List Comprehension | ✅ Completed |
-| Functions | 🔄 Learning |
-| OOP | ⏳ Upcoming |
-| File Handling | ⏳ Upcoming |
-| Flask | ⏳ Upcoming |
-| Django | ⏳ Upcoming |
-| REST APIs | ⏳ Upcoming |
-
----
-
-# 🧑‍💻 Projects
-
-## 🔢 Calculator
+Calculator
 A simple Python calculator that performs:
 
 - Addition
@@ -123,7 +57,7 @@ A simple Python calculator that performs:
 - Multiplication
 - Division
 
-## 📚 Future Projects
+Future Projects
 
 - Student Management System
 - Expense Tracker
@@ -132,19 +66,13 @@ A simple Python calculator that performs:
 - Blog API
 - E-commerce Backend API
 
----
-
-# 📌 My Learning Philosophy
+My Learning Philosophy
 
 > Consistency beats intensity.  
 > Learning every day, writing code, building projects, and improving step by step.
 
----
-
-# 📬 Connect With Me
+Connect With Me
 
 GitHub: https://github.com/prajwalpatil4
-
----
 
 ⭐ This repository documents my journey from Python fundamentals to backend engineering.
